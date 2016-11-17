@@ -1,2 +1,2 @@
 # shell
-shell scrips
+Don't repeat yourself.
